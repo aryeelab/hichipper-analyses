@@ -1,0 +1,6 @@
+peaks:
+  - mESC_OCT4_peaks.narrowPeak
+resfrags:
+  - ../hichipper/RestrictionFragmentFiles/mm9_MboI_resfrag.bed.gz
+hicpro_output:
+  - output
